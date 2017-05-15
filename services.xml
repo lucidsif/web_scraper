@@ -1,0 +1,4316 @@
+<objects type="array">
+    <object>
+        <id type="integer">12681</id>
+        <name>EVAP System Purge Control Valve "A" Circuit</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12680</id>
+        <name>AIR System Switching Valve "A" Circuit</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12679</id>
+        <name>O2 Sensor Heater Circuit Bank 2 Sensor 2</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12678</id>
+        <name>O2 Sensor Heater Circuit Bank 2 Sensor 1</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12675</id>
+        <name>
+            O2 Sensor Pumping Current Trim Circuit High Bank 1 Sensor 1
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12674</id>
+        <name>Cylinder 6 Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12673</id>
+        <name>Cylinder 5 Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12671</id>
+        <name>O2 Sensor Circuit Bank 1 Sensor 2</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12669</id>
+        <name>O2 Sensor Heater Circuit Bank 1 Sensor 2</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12668</id>
+        <name>O2 Sensor Heater Circuit Bank 1 Sensor 1</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">5465</id>
+        <name>Brake Hoses (Replace)</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">12526</id>
+        <name>
+            EVAP System Purge Control Valve "A" Circuit Shorted
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12322</id>
+        <name>Cylinder 4 Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12321</id>
+        <name>Cylinder 2 Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12320</id>
+        <name>Random/Multiple Cylinder Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12315</id>
+        <name>Cylinder 1 Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12313</id>
+        <name>
+            Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12280</id>
+        <name>System Too Lean Bank 2</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12279</id>
+        <name>System Too Lean Bank 1</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12265</id>
+        <name>EVAP System Leak Detected (very small leak)</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12263</id>
+        <name>EGR "A" Flow Insufficient Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12262</id>
+        <name>Cylinder 3 Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12238</id>
+        <name>EVAP System Leak Detected (large leak)</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12237</id>
+        <name>EVAP System Leak Detected (small leak)</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12236</id>
+        <name>EVAP System Incorrect Purge Flow</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12225</id>
+        <name>Catalyst System Efficiency Below Threshold Bank 1</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12222</id>
+        <name>
+            Transmission Fluid Temperature Sensor "B" Circuit Low
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">12220</id>
+        <name>EVAP System</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">11786</id>
+        <name>
+            U0118 - Lost Communication With Fuel Additive Control Module
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">11785</id>
+        <name>P0300 - Random/Multiple Cylinder Misfire Detected</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">279</id>
+        <name>Automatic Transmission Fluid and Filter - Replace</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">617</id>
+        <name>02 oxygen sensor</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">9555</id>
+        <name>P0000 - Manufacturer specific code</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">9554</id>
+        <name>P0743 - Torque Converter Clutch Circuit Electrical</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">7235</id>
+        <name>Brake system (Inspect)</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1785</id>
+        <name>Transfer case fluid (Inspect)</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">799</id>
+        <name>Used car / truck inspection</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">6809</id>
+        <name>General Inspection</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">6808</id>
+        <name>Inspection - Maintenance</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">6807</id>
+        <name>Maintenance Inspection</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">2019</id>
+        <name>Brake pad and rotor replacement - Front and rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">30</id>
+        <name>Brake pad and rotor replacement - Front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">487</id>
+        <name>
+            One or both headlights are not working (electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">197</id>
+        <name>Engine Diagnosis</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">83</id>
+        <name>Vehicle Does Not Start Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1243</id>
+        <name>Oil pan leak - inspection</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1034</id>
+        <name>transmission service / inspection</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">583</id>
+        <name>Front end wheel bearing replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">284</id>
+        <name>Air Filter - Replace</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">161</id>
+        <name>Windshield Wiper Blade Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">6622</id>
+        <name>
+            P0103 - Mass or Volume Air Flow Sensor "A" Circuit High
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">902</id>
+        <name>Radiator flush / coolant flush</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1129</id>
+        <name>flush radiator / coolant flush</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">3803</id>
+        <name>Smog Test</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">4816</id>
+        <name>Smog Check</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">5437</id>
+        <name>Wheel straightening / Rim Straightening</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">5289</id>
+        <name>Differential Fluid Replacement - Rear</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">4302</id>
+        <name>...</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">310</id>
+        <name>Tire rotation</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">465</id>
+        <name>Check engine light is on (general diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">571</id>
+        <name>
+            General Diagnosis (Please provide description in notes section)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">98</id>
+        <name>Panel Light Diagnosis</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">419</id>
+        <name>Tire Installation - New - Purchase 2 Tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">555</id>
+        <name>Brake Pads - Replace Front and rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">300</id>
+        <name>Oil and Filter change - Full Synthetic Motor Oil</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">16</id>
+        <name>Oil and filter change - conventional oil</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1066</id>
+        <name>Replace brake pads rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">498</id>
+        <name>
+            See yellow, blue, green, pink or orange colored liquid under the front of vehicle (coolant leak, coolant system diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">475</id>
+        <name>
+            Hear popping sound (noise) coming from the engine when I accelerate (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">966</id>
+        <name>
+            Hear a whining noise when accelerate (alternator, water pump, or power steering problem) - diagnosis
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">557</id>
+        <name>
+            Hear a clunking sound (noise) when turning the steering wheel (suspension diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1259</id>
+        <name>
+            Hear a chirping sound (noise) coming from my engine (engine diagnosis)
+        </name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">438</id>
+        <name>
+            Hear a grinding sound (noise) when brakes are applied (potential brake pad or shoe replacement, brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1838</id>
+        <name>Fix broken parking light</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1409</id>
+        <name>emergency brake cable / repair</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1880</id>
+        <name>DME Controller replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1852</id>
+        <name>Pinion seal replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1857</id>
+        <name>Exhaust Manifold Bolt Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1858</id>
+        <name>Transfer case fluid replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1859</id>
+        <name>Rear end gear oil replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1860</id>
+        <name>Inspect u-joints</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1879</id>
+        <name>Drain fuel tank</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">283</id>
+        <name>Transmission Fluid and Filter Replacement</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1808</id>
+        <name>Parking brake (Inspect)</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1646</id>
+        <name>ac not cooling - diagnosis</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">717</id>
+        <name>Replace transmission cooler lines</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1645</id>
+        <name>Replace engine coolant</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1644</id>
+        <name>Replace brake pad wear sensors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1591</id>
+        <name>Install timing belt and water Pump</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1640</id>
+        <name>
+            Passenger side mirror damaged - need to get it repaired
+        </name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1639</id>
+        <name>porsche - general service or diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1606</id>
+        <name>TDI Repairs - General diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1251</id>
+        <name>Replace Tail Light Assembly</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1638</id>
+        <name>Software updates - reprogram</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1636</id>
+        <name>Engine stalls in cold weather - diagnosis</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1569</id>
+        <name>
+            Vehicle stability control (VSC) lights are on - general diagnosis
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1567</id>
+        <name>Exhaust rattle - general diagnosis</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1559</id>
+        <name>Replace Front crankshaft seal</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1577</id>
+        <name>
+            Diagnose IMA Battery - Integrated Motor Assist - Diagnosis
+        </name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1581</id>
+        <name>Manual Transmission Oil Change</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1587</id>
+        <name>vacuum leak</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1592</id>
+        <name>
+            Driver side mirror damaged - need to get it repaired
+        </name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1637</id>
+        <name>Service Light On - General Diagnosis</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1345</id>
+        <name>Timing belt and water pump replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1635</id>
+        <name>Replace transmission</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1634</id>
+        <name>
+            replace front struts plus wheel alignment (recommended)
+        </name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1633</id>
+        <name>Replace front struts</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1628</id>
+        <name>Brakes with rotors - front and rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">828</id>
+        <name>rear brakes and rotors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1272</id>
+        <name>front brake pads and rotors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1632</id>
+        <name>
+            Car will not start when it's raining - general diagnosis
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1622</id>
+        <name>120,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1544</id>
+        <name>Hazard lights button - replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">204</id>
+        <name>Engine Performance Diagnosis</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1296</id>
+        <name>sway bar bushing replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1281</id>
+        <name>Fuel Gauge Sensor</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1261</id>
+        <name>Replace starter motor</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1260</id>
+        <name>Replace gas tank</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1130</id>
+        <name>Intermittent Power Steering Failure - inspection</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1193</id>
+        <name>replace front disc brakes and rotors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1227</id>
+        <name>rack and pinion steering - replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1194</id>
+        <name>mount snow tires - all four wheels</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1253</id>
+        <name>U Joint Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1252</id>
+        <name>Universal Joint Replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1250</id>
+        <name>Tail Light Assembly</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1183</id>
+        <name>sunroof leaking - sun roof leaking</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">545</id>
+        <name>Oil change and filter - conventional oil</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">956</id>
+        <name>
+            Transmission is slipping - automatic (Transmission diagnosis)
+        </name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1114</id>
+        <name>spare tire repair</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1134</id>
+        <name>Car wobbles or teeters at high speeds - inspection</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1109</id>
+        <name>EVAP system leaks / Evaporative monitor reset</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1077</id>
+        <name>
+            Engine Oil and Filter Change - Synthetic Blend Motor Oil
+        </name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1013</id>
+        <name>Oil change Synthetic Blend Motor Oil</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1078</id>
+        <name>Oil and Filter change - Synthetic Blend Motor Oil</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">1128</id>
+        <name>Front struts - replace</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1071</id>
+        <name>install snow tires all four tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1043</id>
+        <name>
+            Tapping or clicking noise when car idles (engine diagnosis, could be your valves
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1070</id>
+        <name>Rear main seal leaking</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1064</id>
+        <name>Vibration from steering wheel</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1032</id>
+        <name>Airbag inspection</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1059</id>
+        <name>Shocks and differential inspection</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">905</id>
+        <name>Replace brake pads front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1068</id>
+        <name>car hesitates when accelerating (engine diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1067</id>
+        <name>Replace brake pads front and rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1063</id>
+        <name>Replace spark plugs</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">43</id>
+        <name>Brake Pads - Replace Front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">288</id>
+        <name>Brake Pads - Replace Rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1062</id>
+        <name>car squeaks over bumps</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1048</id>
+        <name>car squeaky over bumps</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1060</id>
+        <name>Rear shocks and differential replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1058</id>
+        <name>Rear fuel pump replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1055</id>
+        <name>change oil and filter</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1014</id>
+        <name>Synthetic Blend Oil Change</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1069</id>
+        <name>Sway bar replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1023</id>
+        <name>coated brake line replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1030</id>
+        <name>Leaking power steering fluid</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1039</id>
+        <name>4 new all weather tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1061</id>
+        <name>Vehicle jerks while slowing down (Brake diagnosis)</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">948</id>
+        <name>
+            tune up - also referred to as scheduled maintenance
+        </name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1054</id>
+        <name>Brake service / inspection</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1019</id>
+        <name>Replace Strut -Drivers side</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">2</id>
+        <name>AC system evacuate and recharge</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">252</id>
+        <name>
+            AC Diagnosis / Air Conditioning Diagnosis and Recharge
+        </name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">470</id>
+        <name>
+            Power mirrors are not functioning properly (general diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">523</id>
+        <name>
+            Abnormal forward jerk when shifting into drive (Automatic transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">14</id>
+        <name>Check engine oil light - flashing on - diagnosis</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">533</id>
+        <name>Flat tire repair</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">802</id>
+        <name>change brake pads - rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1056</id>
+        <name>transmission flush and filter replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">218</id>
+        <name>Oil and Filter change - conventional</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">281</id>
+        <name>Engine Oil and Filter Change - Conventional Oil</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">961</id>
+        <name>100,000 mile scheduled service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">980</id>
+        <name>catalytic converter - replace</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">968</id>
+        <name>Car will not start - diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">864</id>
+        <name>Car has difficulty starting - (general diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">957</id>
+        <name>blown head gasket - repair</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">967</id>
+        <name>Brake line leak</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">965</id>
+        <name>
+            Leaking hose - engine compartment - antifreeze leaking
+        </name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">762</id>
+        <name>Rear struts - replace</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">964</id>
+        <name>Replace rotors - front and rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">963</id>
+        <name>Replace rotors - rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">949</id>
+        <name>Replace rotors - front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">960</id>
+        <name>Timing belt adjustment</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">899</id>
+        <name>brake lines / line repair</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">941</id>
+        <name>Resurface rotors - all four</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">940</id>
+        <name>Resurface rear rotors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">939</id>
+        <name>Resurface front rotors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">33</id>
+        <name>Brake Flex Line Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">870</id>
+        <name>ignition interlock installation</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">831</id>
+        <name>Starter solenoid replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">865</id>
+        <name>Inspection sticker</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">860</id>
+        <name>State Inspection</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">749</id>
+        <name>replace rear brake pads and rotors</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">757</id>
+        <name>hybrid battery replacement / IMA Battery</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">812</id>
+        <name>stalling, rough idle</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">797</id>
+        <name>Air conditioner blowing hot / warm air</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">758</id>
+        <name>CV joint / axle replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">815</id>
+        <name>AC leaking</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">803</id>
+        <name>change brake pads - front and rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">804</id>
+        <name>Traction control module - replace</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">801</id>
+        <name>All wheel drive diagnosis</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">798</id>
+        <name>Air conditioner not cooling / working</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">800</id>
+        <name>Tire change / Repair</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">796</id>
+        <name>Loose sway bar / stabilizer bar - needs repair</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">795</id>
+        <name>Sway Bar Link Kit Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">535</id>
+        <name>tire puncture, blowout, burst - repair</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">760</id>
+        <name>Clutch is slipping (manual transmission diagnosis)</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">759</id>
+        <name>Lower ball joint replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">630</id>
+        <name>front spring repair</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">573</id>
+        <name>power steering fluid replacement</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">598</id>
+        <name>7D inspection - emissions</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">572</id>
+        <name>secondary air injection pump</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">614</id>
+        <name>timing chain replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">600</id>
+        <name>Bleed brakes - bleed brake lines</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">581</id>
+        <name>Front end alignment</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">566</id>
+        <name>Diagnosis / inspect my vehicle (non emissions)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">599</id>
+        <name>Power steering oil replacement</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">589</id>
+        <name>wheel balance - 4 tires</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">532</id>
+        <name>Repair flat tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">531</id>
+        <name>Fix flat tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">538</id>
+        <name>fix a flat tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">582</id>
+        <name>Front end wheel alignment</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">585</id>
+        <name>change / replace timing belt</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">567</id>
+        <name>Failed inspection</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">597</id>
+        <name>Replace timing belt</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">603</id>
+        <name>install air conditioning compressor</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">602</id>
+        <name>Install A/C compresser</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">601</id>
+        <name>Replace horn</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">590</id>
+        <name>Vehicle Inspection - State Inspection</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">588</id>
+        <name>wheel balance - 2 tires</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">587</id>
+        <name>Wheel balance - 1 tire</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">586</id>
+        <name>Tire blowout - repair</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">546</id>
+        <name>4 / four new tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">544</id>
+        <name>purchase and install 4 new tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">543</id>
+        <name>purchase and install 2 new tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">542</id>
+        <name>purchase and install 1 new tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">541</id>
+        <name>buy and install 4 new tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">540</id>
+        <name>buy and install 2 new tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">539</id>
+        <name>buy and install 1 new tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">537</id>
+        <name>tire sidewall damage (need new tire)</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">536</id>
+        <name>tire damage - repair</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">534</id>
+        <name>tire patch - repair</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">530</id>
+        <name>install tires (my tires) - 4 tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">500</id>
+        <name>
+            See brownish stains under front of vehicle (engine component fluid leaks, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">480</id>
+        <name>
+            Feel the entire vehicle shaking at idle (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">474</id>
+        <name>Feel the engine vibrating (engine diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">492</id>
+        <name>
+            Feel a hard thumping sound when driving over a bumps (suspension diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">547</id>
+        <name>Front brakes - installation</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">471</id>
+        <name>
+            Power windshield wipers are not functioning properly (general diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">469</id>
+        <name>
+            Power windows are not functioning properly (general diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">521</id>
+        <name>
+            Clutch is making abnormal sounds (noises) during normal operation (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">520</id>
+        <name>
+            Clutch pedal pulsates when foot is resting on pedal (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">519</id>
+        <name>Clutch slips (Manual transmission diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">518</id>
+        <name>
+            Clutch will not engage after clutch pedal is fully released (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">517</id>
+        <name>
+            Clutch pedal does not fully return to original position after depressed (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">516</id>
+        <name>
+            Clutch pedal is difficult or hard to depress (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">515</id>
+        <name>
+            Clutch engages too close to bottom of fully depressed clutch pedal (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">514</id>
+        <name>
+            Clutch does not engage until fully released or at top (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">513</id>
+        <name>
+            Clutch petal is soft (Manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">512</id>
+        <name>
+            Vehicle transmission lubricant is leaking (Automatic Transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">511</id>
+        <name>
+            Vehicle is stuck in a single gear and does not shift on its own (Automatic transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">510</id>
+        <name>
+            Vehicle randomly pops into neutral after vehicle is placed into gear (drivetrain diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">509</id>
+        <name>
+            Vehicle makes a sound (noise) when vehicle is placed into gear (drivetrain diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">495</id>
+        <name>See a screw or nail in tire (tire diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">494</id>
+        <name>
+            See a slight tear in tire sidewall (tire diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">493</id>
+        <name>See cracks in tire sidewall (tire diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">491</id>
+        <name>
+            Vehicle bounces up and down over any bump in road (shocks, suspension diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">490</id>
+        <name>
+            One or both brake lights are not working properly (electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">489</id>
+        <name>
+            One or both taillights are not working properly (electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">488</id>
+        <name>
+            One or several of the turn signals are not working (electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">426</id>
+        <name>Automatic Transmission Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">486</id>
+        <name>
+            Various fan speeds are not working properly - some work others doe not (Electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">485</id>
+        <name>
+            Windshield fogs with defroster setting turned on (Heat diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">484</id>
+        <name>
+            No air flowing from vents after AC or FAN is turned on (AC / Heat / Electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">483</id>
+        <name>
+            No cold air flowing from vents when AC is turned on (AC diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">482</id>
+        <name>
+            Vehicle stalls from time to time (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">481</id>
+        <name>
+            Vehicle stalls from a starting position when I accelerate (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">479</id>
+        <name>
+            Vehicle engine races or runs high while not in motion (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">478</id>
+        <name>
+            Vehicle hesitates when accelerating (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">477</id>
+        <name>
+            Vehicle backfires after starting and then stalls (exhaust or timing issue, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">476</id>
+        <name>
+            Vehicle backfires after starting and then runs fine (engine timing issue, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">473</id>
+        <name>
+            Vehicle temperature gauge runs hot (engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">472</id>
+        <name>Vehicle overheated (engine diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">444</id>
+        <name>
+            Hear a squealing sound (noise) when turning the steering wheel (suspension diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">466</id>
+        <name>Tire pressure light is on (general diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">467</id>
+        <name>
+            Temperature warning light is on (general diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">462</id>
+        <name>Brake or ABS warning light is on (brake diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">464</id>
+        <name>Brake light is on all the time (general diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">468</id>
+        <name>
+            Battery charge or warning light is on (general diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">420</id>
+        <name>Tire Installation - New - Purchase 4 Tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">12221</id>
+        <name>
+            Gear Lever Y Position Sensor 1 Circuit Range/Performance
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">11789</id>
+        <name>P0100 - Mass or Volume Air Flow Sensor "A" Circuit</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">11788</id>
+        <name>
+            P0101 - Mass or Volume Air Flow Sensor "A" Circuit Range/Performance
+        </name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">11787</id>
+        <name>P0200 - Injector Circuit/Open</name>
+        <category-name nil="true"/>
+        <service-category-id nil="true"/>
+    </object>
+    <object>
+        <id type="integer">439</id>
+        <name>
+            Hear a squealing sound (noise) when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">440</id>
+        <name>
+            Hear a squealing sound (noise) all the time when vehicle is in motion (suspension diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">441</id>
+        <name>
+            Hear a sound (noise) just before the vehicle stops (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">442</id>
+        <name>
+            Hear a groaning sound (noise) just after brake pedal is released (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">443</id>
+        <name>
+            Hear a creeping sound (noise) just after brake pedal is released (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">259</id>
+        <name>AC Refrigerant Recharge</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">456</id>
+        <name>
+            Vehicle drifts to one side when accelerating (alignment or motor mount or drive axle, general diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">414</id>
+        <name>Tire Repair - Fix Flat</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">463</id>
+        <name>
+            Vehicle comes to a sudden stop when steady pressure is applied to brakes (Brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">461</id>
+        <name>Brake warning light is on (brake diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">460</id>
+        <name>
+            Brake pedal engages brakes unusually further than before (brake fluid or pedal adjustment, brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">459</id>
+        <name>
+            Brake pedal is soft or spongy when brake is applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">458</id>
+        <name>
+            Brake pedal has no play or sensitive when brake is applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">457</id>
+        <name>
+            Vehicle takes longer to stop when brakes are applied (brake fade, Brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">455</id>
+        <name>Vehicle drifts to one side (suspension diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">454</id>
+        <name>Vehicle pulls to one side (suspension diagnosis)</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">418</id>
+        <name>Tire Installation - New - purchase 1 Tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">412</id>
+        <name>Tire Leak - Repair</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">453</id>
+        <name>
+            Vehicle pulls to left when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">452</id>
+        <name>
+            Vehicle pulls to right when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">451</id>
+        <name>
+            Vehicle pulls to one side when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">450</id>
+        <name>
+            Parking bake does not hold my vehicle in place when applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">449</id>
+        <name>
+            Brake pedal pulsates when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">448</id>
+        <name>
+            Steering wheel is difficult or hard to turn (suspension / engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">446</id>
+        <name>
+            Steering wheel vibrates when brakes are applied at low speeds (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">445</id>
+        <name>
+            Steering wheel vibrates when brakes are applied at high speeds (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">434</id>
+        <name>Clutch Replacement - Replace</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">261</id>
+        <name>Ambient Air Temperature Sensor - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">258</id>
+        <name>AC Refrigerant Line - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">257</id>
+        <name>AC Receiver Drier Assembly - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">255</id>
+        <name>AC Orifice Tube - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">256</id>
+        <name>AC Low Pressure Hose - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">254</id>
+        <name>AC Expansion Value - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">253</id>
+        <name>AC Evaporator Core - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">392</id>
+        <name>Steering and Suspension Diagnosis</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">66</id>
+        <name>AC Diagnosis / Air Conditioning Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">251</id>
+        <name>AC Condenser - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">250</id>
+        <name>AC Condenser Fan - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">381</id>
+        <name>Replace Strut / Strut Assembly Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">382</id>
+        <name>Upper Ball Joint Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">249</id>
+        <name>AC Compressor - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">263</id>
+        <name>Cooling Fan Replacement</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">286</id>
+        <name>Brake Fluid Replacement / Flush</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">436</id>
+        <name>Transmission Fluid Flush</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">421</id>
+        <name>Wheel Alignment Adjustment</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">435</id>
+        <name>Clutch Slave Cylinder Replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">433</id>
+        <name>Clutch Master Cylinder Replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">432</id>
+        <name>Clutch Cable Replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">430</id>
+        <name>Axle Shaft Replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">427</id>
+        <name>Axle shaft oil seal replacement</name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">425</id>
+        <name>Wheel Replacement</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">424</id>
+        <name>Wheel Lug Stud Replacement</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">423</id>
+        <name>Wheel Hub And Bearing Assembly Replacement</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">413</id>
+        <name>Tire Leak - Patch</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">411</id>
+        <name>Tire Pressure Monitoring System Reset</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">410</id>
+        <name>Tire Pressure Monitoring System Relearn</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">409</id>
+        <name>Tire Pressure Monitoring Sensor Replacement</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">407</id>
+        <name>Tire and Wheel Assembly Balance</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">405</id>
+        <name>Wheel Hub Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">404</id>
+        <name>Wheel Hub and Bearing Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">401</id>
+        <name>Wheel Bearing Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">399</id>
+        <name>Tire & Wheel Assembly Rotate & Balance</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">398</id>
+        <name>Tire & Wheel Assembly Balance</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">397</id>
+        <name>Steering Tie Rod Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">396</id>
+        <name>Steering Tie Rod Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">395</id>
+        <name>Steering Rack Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">394</id>
+        <name>Steering Knuckle Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">393</id>
+        <name>Steering Gear Box Assembly Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">391</id>
+        <name>Stabilizer Bar Link Kit Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">390</id>
+        <name>Suspension Strut Mount Assembly Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">389</id>
+        <name>Suspension Shock Absorber Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">388</id>
+        <name>Suspension Control Arm Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">387</id>
+        <name>Suspension Control Arm Bushings Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">386</id>
+        <name>Suspension Coil Springs Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">377</id>
+        <name>Shock Absorber Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">376</id>
+        <name>Shock Absorber Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">375</id>
+        <name>Power Steering Line / Hose Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">374</id>
+        <name>Power Steering Pump Replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">373</id>
+        <name>151,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">372</id>
+        <name>148,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">371</id>
+        <name>145,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">370</id>
+        <name>142,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">369</id>
+        <name>139,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">368</id>
+        <name>137,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">280</id>
+        <name>Axle Shaft Oil Seal - Replace</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">355</id>
+        <name>106,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">367</id>
+        <name>136,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">366</id>
+        <name>133,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">365</id>
+        <name>130,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">364</id>
+        <name>127,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">363</id>
+        <name>124,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">362</id>
+        <name>122,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">361</id>
+        <name>121,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">360</id>
+        <name>118,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">359</id>
+        <name>115,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">358</id>
+        <name>112,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">312</id>
+        <name>Transmission Fluid Change</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">292</id>
+        <name>Diagnose my vehicle</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">290</id>
+        <name>Cabin Air Filter Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">357</id>
+        <name>109,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">353</id>
+        <name>99,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">352</id>
+        <name>97,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">351</id>
+        <name>96,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">350</id>
+        <name>93,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">349</id>
+        <name>90,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">348</id>
+        <name>87,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">347</id>
+        <name>84,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">346</id>
+        <name>82,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">345</id>
+        <name>81,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">344</id>
+        <name>78,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">343</id>
+        <name>75,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">342</id>
+        <name>72,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">341</id>
+        <name>69,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">340</id>
+        <name>67,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">339</id>
+        <name>66,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">338</id>
+        <name>63,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">337</id>
+        <name>60,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">336</id>
+        <name>57,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">282</id>
+        <name>
+            Engine Oil and Filter Change - Full Synthetic Motor Oil
+        </name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">296</id>
+        <name>Engine Coolant System Flush and Refill</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">264</id>
+        <name>Coolant System Flush and Refill</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">335</id>
+        <name>54,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">334</id>
+        <name>52,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">333</id>
+        <name>51,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">332</id>
+        <name>48,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">331</id>
+        <name>45,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">330</id>
+        <name>42,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">329</id>
+        <name>39,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">328</id>
+        <name>37,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">327</id>
+        <name>36,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">326</id>
+        <name>33,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">325</id>
+        <name>30,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">324</id>
+        <name>27,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">323</id>
+        <name>24,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">322</id>
+        <name>22,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">321</id>
+        <name>21,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">320</id>
+        <name>18,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">319</id>
+        <name>15,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">318</id>
+        <name>12,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">317</id>
+        <name>9,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">316</id>
+        <name>7,500 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">315</id>
+        <name>6,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">314</id>
+        <name>3,000 mile service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">86</id>
+        <name>Air Bag Crash Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">81</id>
+        <name>Oil Leak Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">80</id>
+        <name>Heating and AC Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">78</id>
+        <name>Engine Overheating Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">74</id>
+        <name>Engine Cooling System Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">69</id>
+        <name>Charging System Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">67</id>
+        <name>Automatic Transmission and Drive Train Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">64</id>
+        <name>Wheel Speed Sensor Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">60</id>
+        <name>Proportioning Valve Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">59</id>
+        <name>Parking Brake Cable Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">58</id>
+        <name>Parking Brake Cable Adjustment</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">57</id>
+        <name>Emergency / Parking Brake Shoe Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">44</id>
+        <name>Brake Power Booster Unit Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">40</id>
+        <name>Brake Line Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">37</id>
+        <name>Brake Hydraulic System Bleeding</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">26</id>
+        <name>Brake Booster Replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">20</id>
+        <name>Starter replacement</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">18</id>
+        <name>Radiator replacement</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">272</id>
+        <name>HVAC Diagnosis</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">53</id>
+        <name>
+            Brake Wheel Cylinder for Drum Brakes - Replace - Rear
+        </name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">248</id>
+        <name>AC Compressor Clutch - Replace</name>
+        <category-name>AC</category-name>
+        <service-category-id type="integer">15</service-category-id>
+    </object>
+    <object>
+        <id type="integer">89</id>
+        <name>Alternator Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">561</id>
+        <name>scratched rim - need repaired</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">72</id>
+        <name>Diagnose My Car</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">553</id>
+        <name>Brakes - front and rear replacement</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">560</id>
+        <name>Cracked rim - need repaired</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">556</id>
+        <name>gas cap replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">548</id>
+        <name>Brake Drum Replace - Rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">559</id>
+        <name>bent rim - need repaired</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">552</id>
+        <name>
+            Difficult to shift gears (manual transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">551</id>
+        <name>
+            Steering wheel is hard to turn (power steering diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">550</id>
+        <name>
+            Vehicle veers to right when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">549</id>
+        <name>
+            Vehicle veers to left when brakes are applied (brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1618</id>
+        <name>CV boot replacement</name>
+        <category-name>Suspension</category-name>
+        <service-category-id type="integer">12</service-category-id>
+    </object>
+    <object>
+        <id type="integer">237</id>
+        <name>Vehicle Road Test</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">554</id>
+        <name>Front and rear brakes</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">1079</id>
+        <name>Oil change Full Synthetic Motor Oil</name>
+        <category-name>Lubrication</category-name>
+        <service-category-id type="integer">10</service-category-id>
+    </object>
+    <object>
+        <id type="integer">875</id>
+        <name>Replace brakes - Front - both sides</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">654</id>
+        <name>change battery</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">447</id>
+        <name>
+            Steering wheel vibrates at high speeds (suspension diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">529</id>
+        <name>install tires (my tires) - 2 tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">528</id>
+        <name>Install tire (my tires) - 1 tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">526</id>
+        <name>New tires - buy 2 tires</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">525</id>
+        <name>New tire - buy 1 tire</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">408</id>
+        <name>Tire and Wheel Assembly Rotate and Balance</name>
+        <category-name>Tires</category-name>
+        <service-category-id type="integer">13</service-category-id>
+    </object>
+    <object>
+        <id type="integer">524</id>
+        <name>
+            Vehicle is using more gas that usual (inspection for possible fuel leak and tune up, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">522</id>
+        <name>
+            Vehicle jerks while in drive or between changes in gears (Automatic transmission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">502</id>
+        <name>
+            Heavy odor (smell), some smoke coming from vehicle tailpipe (burning oil, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">504</id>
+        <name>
+            Sulfur odor (smell) coming from vehicle (emission system, emission diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">507</id>
+        <name>
+            Metallic odor plus sweet odor (smell) coming from front of vehicle (overheating, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">501</id>
+        <name>
+            Sharp odor (smell) from any part of the vehicle (electrical short, electrical diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">506</id>
+        <name>
+            Burning rubber odor (smell) coming from center of vehicle (overheated clutch, drivetrain diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">503</id>
+        <name>
+            Heavy odor (smell), some smoke coming from under the hood (burning oil, engine diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">497</id>
+        <name>
+            Sweet odor (smell) coming from the front of vehicle (Coolant leak, coolant system diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">952</id>
+        <name>change air filter</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">505</id>
+        <name>
+            Burning rubber odor (smell) coming from any area near vehicle tires (overheated brakes, brake diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">496</id>
+        <name>
+            See steam coming out from under the hood (Antifreeze leak, coolant system diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">508</id>
+        <name>
+            See reddish stains under the middle of vehicle (transmission or oil leaks, engine and drivetrain diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">499</id>
+        <name>
+            See black, pasty liquid under front or rear of vehicle (Axle leak, drivetrain diagnosis)
+        </name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">309</id>
+        <name>Tire and Wheel Assembly Rotate & Balance</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">308</id>
+        <name>Tire and Wheel Assembly Balance</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">306</id>
+        <name>Spark Plug Wire Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">305</id>
+        <name>Spark Plugs Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">304</id>
+        <name>Serpentine/Drive Belt Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">302</id>
+        <name>
+            Positive Crankcase Ventilation (PCV) Valve Replacement
+        </name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">301</id>
+        <name>Parking Brake System Adjustment</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">298</id>
+        <name>Ignition Cable Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">297</id>
+        <name>Fuel Filter Replacement / Change</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">295</id>
+        <name>Engine Air Filter Element Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">294</id>
+        <name>Drive Belt Replacement</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">293</id>
+        <name>Differential Fluid Replacement - Front</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">291</id>
+        <name>Check Differential Oil Leaks and Replace Oil</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">289</id>
+        <name>Brake Safety Inspection</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">278</id>
+        <name>Radiator Support Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">274</id>
+        <name>Radiator Fan Motor Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">273</id>
+        <name>HVAC Blending Door Actuator Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">271</id>
+        <name>HVAC Blower Motor Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">270</id>
+        <name>Heating and Air Conditioning Diagnosis</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">269</id>
+        <name>Heater Hose Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">268</id>
+        <name>Heater Core Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">267</id>
+        <name>Heater Control Valve Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">266</id>
+        <name>Heater Blower Motor Resistor Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">265</id>
+        <name>Heater Blower Motor Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">247</id>
+        <name>O2 Sensor Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">245</id>
+        <name>Exhaust Systems Replacement (end to end)</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">244</id>
+        <name>Exhaust Pipe Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">243</id>
+        <name>Exhaust Muffler Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">242</id>
+        <name>Exhaust Manifold Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">241</id>
+        <name>Exhaust Manifold Gasket Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">240</id>
+        <name>EGR Valve Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">239</id>
+        <name>Catalytic Converter Replacement</name>
+        <category-name>Exhaust</category-name>
+        <service-category-id type="integer">8</service-category-id>
+    </object>
+    <object>
+        <id type="integer">238</id>
+        <name>Water Pump Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">200</id>
+        <name>Engine Oil Pan Replacement / change</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">236</id>
+        <name>Variable Valve Timing Actuator Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">235</id>
+        <name>Valve Stem Oil Seal Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">234</id>
+        <name>Valve Cover Gasket Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">233</id>
+        <name>Turbocharger Assembly Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">232</id>
+        <name>Timing Chain Tensioner Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">231</id>
+        <name>Timing Chain and Gear Set Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">229</id>
+        <name>Throttle Body Assembly Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">227</id>
+        <name>Spark Plug Wire Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">225</id>
+        <name>Radiator Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">224</id>
+        <name>Radiator Hose Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">223</id>
+        <name>Radiator Fan Motor Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">222</id>
+        <name>PVC Value Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">108</id>
+        <name>Headlamp Assembly Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">107</id>
+        <name>Headlamp Alignment Adjustment</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">106</id>
+        <name>Fuse Test/Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">105</id>
+        <name>Fuel Pump Relay Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">103</id>
+        <name>Engine Coolant Temperature Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">102</id>
+        <name>Engine Control Module Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">101</id>
+        <name>Engine Control Module Relearn</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">99</id>
+        <name>Door Lock Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">91</id>
+        <name>Battery Terminal End Servicing</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">87</id>
+        <name>Air Bag Inflator Module Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">54</id>
+        <name>
+            Brake Wheel Cylinder for Drum Brakes - Replace - Front
+        </name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">51</id>
+        <name>Brake Shoes - Replace - Rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">50</id>
+        <name>Brake Shoes - Replace - Front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">28</id>
+        <name>Brake pad and rotor replacement - Rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">75</id>
+        <name>Engine Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">76</id>
+        <name>Engine Oil Leak Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">73</id>
+        <name>Electrical System Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">15</id>
+        <name>Diagnose my vehicle</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">68</id>
+        <name>Brake System Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">82</id>
+        <name>Steering and Suspension Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">47</id>
+        <name>Brake Rotor and Disc - Replace - Rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">45</id>
+        <name>Brake Rotor and Disc - Replace - Front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">41</id>
+        <name>Brake Master Cylinder - Replace</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">38</id>
+        <name>Brake Light Bulb - Replace</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">21</id>
+        <name>Timing belt replacement / change</name>
+        <category-name>Common</category-name>
+        <service-category-id type="integer">1</service-category-id>
+    </object>
+    <object>
+        <id type="integer">77</id>
+        <name>Engine Oil Light Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">558</id>
+        <name>
+            See red stains under the middle of vehicle (transmission or oil leaks, engine and drivetrain diagnosis)
+        </name>
+        <category-name>Transmission</category-name>
+        <service-category-id type="integer">14</service-category-id>
+    </object>
+    <object>
+        <id type="integer">70</id>
+        <name>Check engine light</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">71</id>
+        <name>Coolant Leak - Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">79</id>
+        <name>Engine Performance Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">65</id>
+        <name>ABS System Diagnosis</name>
+        <category-name>Diagnosis</category-name>
+        <service-category-id type="integer">3</service-category-id>
+    </object>
+    <object>
+        <id type="integer">354</id>
+        <name>103,000 mile scheduled service</name>
+        <category-name>Maintenance</category-name>
+        <service-category-id type="integer">11</service-category-id>
+    </object>
+    <object>
+        <id type="integer">34</id>
+        <name>Brake Flex Line - Replace Rear</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">35</id>
+        <name>Brake Flex Line - Replace Front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">31</id>
+        <name>Brake Drum Replace - Front</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">85</id>
+        <name>Air Bag Control Module - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">84</id>
+        <name>Air Bag Clockspring - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">25</id>
+        <name>ABS Wheel Speed Sensor - Replace</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">22</id>
+        <name>ABS Control Module - Replace</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">23</id>
+        <name>ABS Hydraulic Control Unit - Replace</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">221</id>
+        <name>Oxygen Sensor Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">220</id>
+        <name>Oil Pressure Sensor, Replace</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">217</id>
+        <name>Mass Air Flow Sensor Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">216</id>
+        <name>Intercooler Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">215</id>
+        <name>Intake Manifold Gasket Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">212</id>
+        <name>Idle Control Valve Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">211</id>
+        <name>Fuel Tank Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">210</id>
+        <name>Fuel Pump Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">209</id>
+        <name>Fuel Pressure Regulator Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">208</id>
+        <name>Fuel Injector Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">207</id>
+        <name>Fan Shroud Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">206</id>
+        <name>Exhaust Gas Recirculation/EGR Valve Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">205</id>
+        <name>Engine Piston Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">203</id>
+        <name>Engine Overheat Diagnosis</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">202</id>
+        <name>Engine Oil Pump Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">201</id>
+        <name>Engine Oil Pan Reseal / Seal</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">199</id>
+        <name>Engine Oil Pan Gasket Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">198</id>
+        <name>Engine Oil Cooler Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">196</id>
+        <name>Engine Mount Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">195</id>
+        <name>Engine Front Cover Gasket Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">194</id>
+        <name>Engine Expansion/Freeze Plug Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">193</id>
+        <name>Engine Cooling System Diagnosis</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">192</id>
+        <name>Engine Coolant Thermostat Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">191</id>
+        <name>Engine Coolant Outlet Housing Gasket Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">190</id>
+        <name>Engine Coolant Expansion Tank Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">189</id>
+        <name>Engine Control Module Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">188</id>
+        <name>Engine Control Module Relearn</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">187</id>
+        <name>Engine Assembly Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">186</id>
+        <name>Engine Assembly Inspection</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">185</id>
+        <name>Engine Assembly - Short Block Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">184</id>
+        <name>Engine Assembly - Long Block Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">183</id>
+        <name>Driveshaft Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">182</id>
+        <name>Drive Belt Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">181</id>
+        <name>Drive Belt Idler Pulley Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">180</id>
+        <name>Cylinder Head Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">179</id>
+        <name>Cylinder Head Gasket Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">178</id>
+        <name>Cylinder Head Assembly Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">177</id>
+        <name>Crankshaft Vibration Damper Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">176</id>
+        <name>Crankshaft Position Sensor Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">175</id>
+        <name>Crankshaft Oil Seal Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">174</id>
+        <name>Crankshaft Main Bearing Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">104</id>
+        <name>Fog Light / Driving Light Bulb Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">95</id>
+        <name>Brake Light Switch - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">94</id>
+        <name>Need New Battery - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">93</id>
+        <name>Battery Cable - Replace Negative</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">92</id>
+        <name>Battery Cable - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">90</id>
+        <name>Backup Lamp Switch - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">100</id>
+        <name>Electrical system diagnosis</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">277</id>
+        <name>Radiator Replacement</name>
+        <category-name>Heating</category-name>
+        <service-category-id type="integer">9</service-category-id>
+    </object>
+    <object>
+        <id type="integer">88</id>
+        <name>Alternator Pulley - Replace</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">173</id>
+        <name>Control Arm Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">168</id>
+        <name>Carburetor Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">167</id>
+        <name>Camshaft Seal Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">166</id>
+        <name>Camshaft Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">165</id>
+        <name>Camshaft Position Sensor Replacement</name>
+        <category-name>Engine</category-name>
+        <service-category-id type="integer">7</service-category-id>
+    </object>
+    <object>
+        <id type="integer">160</id>
+        <name>Windshield Wiper Arm Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">159</id>
+        <name>Windshield Washer Fluid Reservoir Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">158</id>
+        <name>Windshield Washer Fluid Pump Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">156</id>
+        <name>Hood Support Strut Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">155</id>
+        <name>Hood Release Cable Replacement</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">154</id>
+        <name>Hood Release Cable adjustment</name>
+        <category-name>General</category-name>
+        <service-category-id type="integer">6</service-category-id>
+    </object>
+    <object>
+        <id type="integer">36</id>
+        <name>Brake Fluid Flush / Replace</name>
+        <category-name>Brakes</category-name>
+        <service-category-id type="integer">2</service-category-id>
+    </object>
+    <object>
+        <id type="integer">152</id>
+        <name>OBDII Drive Cycle Test</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">151</id>
+        <name>Fuel Level Sending Unit Replacement</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">150</id>
+        <name>Fuel Evaporative Canister Replacement</name>
+        <category-name>Emission Testing</category-name>
+        <service-category-id type="integer">5</service-category-id>
+    </object>
+    <object>
+        <id type="integer">148</id>
+        <name>Windshield Wiper Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">147</id>
+        <name>Windshield Wiper Motor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">145</id>
+        <name>Windshield Washer Fluid Level Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">144</id>
+        <name>Window Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">143</id>
+        <name>Window Regulator Motor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">141</id>
+        <name>Turn Signal Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">140</id>
+        <name>Turn Signal Bulb Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">139</id>
+        <name>Tire Pressure Monitoring System Reset</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">138</id>
+        <name>Tire Pressure Monitoring System Relearn</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">137</id>
+        <name>Tire Pressure Monitoring Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">136</id>
+        <name>Throttle Position Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">135</id>
+        <name>Tail Light Bulb Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">134</id>
+        <name>Sun Roof Motor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">133</id>
+        <name>Starter Motor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">132</id>
+        <name>Seat Belt Motor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">131</id>
+        <name>Radio Antenna Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">130</id>
+        <name>Power Window Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">129</id>
+        <name>Power Window Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">128</id>
+        <name>Power Window Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">127</id>
+        <name>Power Window Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">126</id>
+        <name>Power Seat Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">125</id>
+        <name>Power Mirror Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">122</id>
+        <name>Multi-Function Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">121</id>
+        <name>Mass Airflow Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">120</id>
+        <name>Knock Sensor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">119</id>
+        <name>Instrument Panel Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">118</id>
+        <name>Instrument Cluster Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">117</id>
+        <name>Ignition Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">116</id>
+        <name>Ignition Lock Cylinder Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">115</id>
+        <name>Ignition Coil Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">114</id>
+        <name>HVAC Blend Door Actuator Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">113</id>
+        <name>Horn Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">112</id>
+        <name>Heater Blower Motor Resistor Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">111</id>
+        <name>Headlamp Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">110</id>
+        <name>Headlamp Dimmer Switch Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+    <object>
+        <id type="integer">109</id>
+        <name>Headlamp Bulb Replacement</name>
+        <category-name>Electrical</category-name>
+        <service-category-id type="integer">4</service-category-id>
+    </object>
+</objects>

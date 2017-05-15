@@ -1,0 +1,31 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "dependencies": {
+    "JSONStream": "^1.1.4",
+    "async": "^2.0.1",
+    "bluebird": "^3.4.1",
+    "bottleneck": "^1.12.0",
+    "cheerio": "^0.20.0",
+    "event-stream": "^3.3.4",
+    "fs-extra": "^0.30.0",
+    "jsonfile": "^2.3.1",
+    "nightmare": "^2.5.3",
+    "promise-ratelimit": "0.0.2",
+    "promise-retry": "^1.1.0",
+    "random-ua": "0.0.6",
+    "request": "^2.73.0",
+    "request-promise": "^4.0.2",
+    "requestretry": "^1.9.1",
+    "simple-rate-limiter": "^0.2.3",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sif",
+  "license": "ISC"
+}

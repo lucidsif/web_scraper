@@ -1,0 +1,82 @@
+
+{"level":"info","message":"JSON parse error at serviceNum: 1550","timestamp":"2016-08-09T19:31:28.351Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 1550","timestamp":"2016-08-09T19:32:53.322Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 2403","timestamp":"2016-08-09T20:01:53.077Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 2487","timestamp":"2016-08-09T20:04:45.002Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 2675","timestamp":"2016-08-09T20:11:02.347Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4157","timestamp":"2016-08-09T21:01:14.315Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4173","timestamp":"2016-08-09T21:01:44.327Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4269","timestamp":"2016-08-09T21:04:58.498Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4271","timestamp":"2016-08-09T21:05:00.462Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4291","timestamp":"2016-08-09T21:05:38.435Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4311","timestamp":"2016-08-09T21:06:23.296Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4321","timestamp":"2016-08-09T21:06:41.520Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4323","timestamp":"2016-08-09T21:06:43.310Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4550","timestamp":"2016-08-09T21:14:23.724Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 4641","timestamp":"2016-08-09T21:17:24.362Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5029","timestamp":"2016-08-09T21:31:14.017Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5327","timestamp":"2016-08-09T21:41:41.655Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5334","timestamp":"2016-08-09T21:41:53.816Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5527","timestamp":"2016-08-09T21:49:25.664Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5565","timestamp":"2016-08-09T21:51:05.568Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5567","timestamp":"2016-08-09T21:51:07.489Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 5902","timestamp":"2016-08-09T22:03:48.760Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 6247","timestamp":"2016-08-09T22:15:40.894Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 6644","timestamp":"2016-08-09T22:29:11.819Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 6684","timestamp":"2016-08-09T22:30:41.762Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 6836","timestamp":"2016-08-09T22:35:50.710Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 7240","timestamp":"2016-08-09T22:49:23.025Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 7408","timestamp":"2016-08-09T22:54:57.999Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 7770","timestamp":"2016-08-09T23:07:15.020Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 7772","timestamp":"2016-08-09T23:07:16.985Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 8031","timestamp":"2016-08-09T23:16:50.939Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 8082","timestamp":"2016-08-09T23:18:31.758Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 8121","timestamp":"2016-08-09T23:19:47.767Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 9693","timestamp":"2016-08-10T00:12:29.177Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 10158","timestamp":"2016-08-10T00:28:18.042Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 10605","timestamp":"2016-08-10T00:43:40.921Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 10711","timestamp":"2016-08-10T00:47:18.601Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 10884","timestamp":"2016-08-10T00:53:22.976Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 10977","timestamp":"2016-08-10T00:56:26.939Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11241","timestamp":"2016-08-10T01:05:14.079Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11433","timestamp":"2016-08-10T01:11:36.124Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11435","timestamp":"2016-08-10T01:11:38.136Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11685","timestamp":"2016-08-10T01:20:05.204Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11830","timestamp":"2016-08-10T01:24:53.273Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11832","timestamp":"2016-08-10T01:24:55.344Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11896","timestamp":"2016-08-10T01:27:01.304Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 11968","timestamp":"2016-08-10T01:29:24.768Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12268","timestamp":"2016-08-10T01:39:24.550Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12310","timestamp":"2016-08-10T01:40:47.497Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12372","timestamp":"2016-08-10T01:42:51.090Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12481","timestamp":"2016-08-10T01:46:29.147Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12483","timestamp":"2016-08-10T01:46:31.290Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12577","timestamp":"2016-08-10T01:49:41.831Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12615","timestamp":"2016-08-10T01:50:55.940Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12685","timestamp":"2016-08-10T01:53:13.821Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12687","timestamp":"2016-08-10T01:53:15.831Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12735","timestamp":"2016-08-10T01:54:51.697Z"}
+{"level":"info","message":"JSON parse error at serviceNum: 12737","timestamp":"2016-08-10T01:54:53.734Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:02:58.324Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:03:13.057Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:03:19.055Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:03:37.053Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:03:39.116Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:03:53.066Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:03:57.051Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:04:29.048Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:04:31.068Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:04:33.088Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:04:35.040Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:05:01.043Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:05:03.099Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:05:07.077Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:05:11.054Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:09.053Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:13.061Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:17.043Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:19.052Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:21.050Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:23.044Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:25.048Z"}
+{"level":"info","message":"network error StatusCodeError: 500 - \"{:message=>\\\"There has been an error reported by Openbay's servers. Please try again later, or visit http://www.openbay.com/ to complete your request.\\\"}\"","timestamp":"2016-08-10T02:06:27.072Z"}

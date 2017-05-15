@@ -1,0 +1,3610 @@
+{
+    "services": [{
+      "id": "12681",
+      "name": "EVAP System Purge Control Valve \"A\" Circuit",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12680",
+      "name": "AIR System Switching Valve \"A\" Circuit",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12679",
+      "name": "O2 Sensor Heater Circuit Bank 2 Sensor 2",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12678",
+      "name": "O2 Sensor Heater Circuit Bank 2 Sensor 1",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12675",
+      "name": "O2 Sensor Pumping Current Trim Circuit High Bank 1 Sensor 1",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12674",
+      "name": "Cylinder 6 Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12673",
+      "name": "Cylinder 5 Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12671",
+      "name": "O2 Sensor Circuit Bank 1 Sensor 2",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12669",
+      "name": "O2 Sensor Heater Circuit Bank 1 Sensor 2",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12668",
+      "name": "O2 Sensor Heater Circuit Bank 1 Sensor 1",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "5465",
+      "name": "Brake Hoses (Replace)",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "12526",
+      "name": "EVAP System Purge Control Valve \"A\" Circuit Shorted",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12322",
+      "name": "Cylinder 4 Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12321",
+      "name": "Cylinder 2 Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12320",
+      "name": "Random/Multiple Cylinder Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12315",
+      "name": "Cylinder 1 Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12313",
+      "name": "Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12280",
+      "name": "System Too Lean Bank 2",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12279",
+      "name": "System Too Lean Bank 1",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12265",
+      "name": "EVAP System Leak Detected (very small leak)",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12263",
+      "name": "EGR \"A\" Flow Insufficient Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12262",
+      "name": "Cylinder 3 Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12238",
+      "name": "EVAP System Leak Detected (large leak)",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12237",
+      "name": "EVAP System Leak Detected (small leak)",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12236",
+      "name": "EVAP System Incorrect Purge Flow",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12225",
+      "name": "Catalyst System Efficiency Below Threshold Bank 1",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12222",
+      "name": "Transmission Fluid Temperature Sensor \"B\" Circuit Low",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "12220",
+      "name": "EVAP System",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "11786",
+      "name": "U0118  Lost Communication With Fuel Additive Control Module",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "11785",
+      "name": "P0300  Random/Multiple Cylinder Misfire Detected",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "279",
+      "name": "Automatic Transmission Fluid and Filter  Replace",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "617",
+      "name": "02 oxygen sensor",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "9555",
+      "name": "P0000  Manufacturer specific code",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "9554",
+      "name": "P0743  Torque Converter Clutch Circuit Electrical",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "7235",
+      "name": "Brake system (Inspect)",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "1785",
+      "name": "Transfer case fluid (Inspect)",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "799",
+      "name": "Used car / truck inspection",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "6809",
+      "name": "General Inspection",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "6808",
+      "name": "Inspection  Maintenance",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "6807",
+      "name": "Maintenance Inspection",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "2019",
+      "name": "Brake pad and rotor replacement  Front and rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "30",
+      "name": "Brake pad and rotor replacement  Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "487",
+      "name": "One or both headlights are not working (electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "197",
+      "name": "Engine Diagnosis",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "83",
+      "name": "Vehicle Does Not Start Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1243",
+      "name": "Oil pan leak  inspection",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1034",
+      "name": "transmission service / inspection",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "583",
+      "name": "Front end wheel bearing replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "284",
+      "name": "Air Filter  Replace",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "161",
+      "name": "Windshield Wiper Blade Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "6622",
+      "name": "P0103  Mass or Volume Air Flow Sensor \"A\" Circuit High",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "902",
+      "name": "Radiator flush / coolant flush",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1129",
+      "name": "flush radiator / coolant flush",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "3803",
+      "name": "Smog Test",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "4816",
+      "name": "Smog Check",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "5437",
+      "name": "Wheel straightening / Rim Straightening ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "5289",
+      "name": "Differential Fluid Replacement  Rear ",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "4302",
+      "name": "15point inspection  Inspect: Brake fluid level (in transparent reservoirs), Serpentine belts, Wiper blades, Antifreeze/coolant reservoir levels, Engine air filtration system, Exterior lights, Chassis(lubricate when applicable), Check / Fill: Tire pressure, Tire tread depth, Transmission fluid, Differential fluid, Transfer case fluid, Power steering fluid, Windshield washer fluid, Battery water(excluding sealed batteries)",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "310",
+      "name": "Tire rotation ",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "465",
+      "name": "Check engine light is on (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "571",
+      "name": "General Diagnosis (Please provide description in notes section) ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "98",
+      "name": "Panel Light Diagnosis",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "419",
+      "name": "Tire Installation  New  Purchase 2 Tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "555",
+      "name": "Brake Pads  Replace Front and rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "300",
+      "name": "Oil and Filter change  Full Synthetic Motor Oil",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "16",
+      "name": "Oil and filter change  conventional oil",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "1066",
+      "name": "Replace brake pads rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "498",
+      "name": "See yellow, blue, green, pink or orange colored liquid under the front of vehicle (coolant leak, coolant system diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "475",
+      "name": "Hear popping sound (noise) coming from the engine when I accelerate (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "966",
+      "name": "Hear a whining noise when accelerate (alternator, water pump, or power steering problem)  diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "557",
+      "name": "Hear a clunking sound (noise) when turning the steering wheel (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1259",
+      "name": "Hear a chirping sound (noise) coming from my engine (engine diagnosis)",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "438",
+      "name": "Hear a grinding sound (noise) when brakes are applied (potential brake pad or shoe replacement, brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1838",
+      "name": "Fix broken parking light ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "1409",
+      "name": "emergency brake cable / repair",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1880",
+      "name": "DME Controller replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "1852",
+      "name": "Pinion seal replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1857",
+      "name": "Exhaust Manifold Bolt Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "1858",
+      "name": "Transfer case fluid replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1859",
+      "name": "Rear end gear oil replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1860",
+      "name": "Inspect ujoints",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1879",
+      "name": "Drain fuel tank",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "283",
+      "name": "Transmission Fluid and Filter Replacement",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "1808",
+      "name": "Parking brake (Inspect)",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1646",
+      "name": "ac not cooling  diagnosis",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "717",
+      "name": "Replace transmission cooler lines",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1645",
+      "name": "Replace engine coolant ",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1644",
+      "name": "Replace brake pad wear sensors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1591",
+      "name": "Install timing belt and water Pump",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1640",
+      "name": "Passenger side mirror damaged  need to get it repaired",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "1639",
+      "name": "porsche  general service or diagnosis ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1606",
+      "name": "TDI Repairs  General diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1251",
+      "name": "Replace Tail Light Assembly",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "1638",
+      "name": "Software updates  reprogram ",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "1636",
+      "name": "Engine stalls in cold weather  diagnosis",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1569",
+      "name": "Vehicle stability control (VSC) lights are on  general diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1567",
+      "name": "Exhaust rattle  general diagnosis",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "1559",
+      "name": "Replace Front crankshaft seal ",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1577",
+      "name": "Diagnose IMA Battery  Integrated Motor Assist  Diagnosis",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "1581",
+      "name": "Manual Transmission Oil Change",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1587",
+      "name": "vacuum leak",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1592",
+      "name": "Driver side mirror damaged  need to get it repaired",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "1637",
+      "name": "Service Light On  General Diagnosis",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1345",
+      "name": "Timing belt and water pump replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1635",
+      "name": "Replace transmission",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1634",
+      "name": "replace front struts plus wheel alignment (recommended)",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1633",
+      "name": "Replace front struts",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1628",
+      "name": "Brakes with rotors  front and rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "828",
+      "name": "rear brakes and rotors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1272",
+      "name": "front brake pads and rotors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1632",
+      "name": "Car will not start when it is raining  general diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1622",
+      "name": "120,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "1544",
+      "name": "Hazard lights button  replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "204",
+      "name": "Engine Performance Diagnosis",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1296",
+      "name": "sway bar bushing replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1281",
+      "name": "Fuel Gauge Sensor",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "1261",
+      "name": "Replace starter motor ",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1260",
+      "name": "Replace gas tank",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "1130",
+      "name": "Intermittent Power Steering Failure  inspection ",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1193",
+      "name": "replace front disc brakes and rotors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1227",
+      "name": "rack and pinion steering  replacement ",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1194",
+      "name": "mount snow tires  all four wheels",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "1253",
+      "name": "U Joint Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "1252",
+      "name": "Universal Joint Replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1250",
+      "name": "Tail Light Assembly",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "1183",
+      "name": "sunroof leaking  sun roof leaking",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "545",
+      "name": "Oil change and filter  conventional oil",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "956",
+      "name": "Transmission is slipping  automatic (Transmission diagnosis) ",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "1114",
+      "name": "spare tire repair",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "1134",
+      "name": "Car wobbles or teeters at high speeds  inspection",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1109",
+      "name": "EVAP system leaks / Evaporative monitor reset  ",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "1077",
+      "name": "Engine Oil and Filter Change  Synthetic Blend Motor Oil",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "1013",
+      "name": "Oil change Synthetic Blend Motor Oil",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "1078",
+      "name": "Oil and Filter change  Synthetic Blend Motor Oil",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "1128",
+      "name": "Front struts  replace",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1071",
+      "name": "install snow tires all four tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "1043",
+      "name": "Tapping or clicking noise when car idles (engine diagnosis, could be your valves",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1070",
+      "name": "Rear main seal leaking  ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1064",
+      "name": "Vibration from steering wheel",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1032",
+      "name": "Airbag inspection",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1059",
+      "name": "Shocks and differential inspection",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "905",
+      "name": "Replace brake pads front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1068",
+      "name": "car hesitates when accelerating (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1067",
+      "name": "Replace brake pads front and rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1063",
+      "name": "Replace spark plugs",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "43",
+      "name": "Brake Pads  Replace Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "288",
+      "name": "Brake Pads  Replace Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1062",
+      "name": "car squeaks over bumps  ",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1048",
+      "name": "car squeaky over bumps",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1060",
+      "name": "Rear shocks and differential replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1058",
+      "name": "Rear fuel pump replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "1055",
+      "name": "change oil and filter",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "1014",
+      "name": "Synthetic Blend Oil Change",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "1069",
+      "name": "Sway bar replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1023",
+      "name": "coated brake line replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1030",
+      "name": "Leaking power steering fluid ",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "1039",
+      "name": "4 new all weather tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "1061",
+      "name": "Vehicle jerks while slowing down (Brake diagnosis)",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "948",
+      "name": "tune up  also referred to as scheduled maintenance",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "1054",
+      "name": "Brake service / inspection ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1019",
+      "name": "Replace Strut Drivers side",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "2",
+      "name": "AC system evacuate and recharge ",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "252",
+      "name": "AC Diagnosis / Air Conditioning Diagnosis and Recharge",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "470",
+      "name": "Power mirrors are not functioning properly (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "523",
+      "name": "Abnormal forward jerk when shifting into drive (Automatic transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "14",
+      "name": "Check engine oil light   flashing on  diagnosis",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "533",
+      "name": "Flat tire repair",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "802",
+      "name": "change brake pads  rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1056",
+      "name": "transmission flush and filter replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "218",
+      "name": "Oil and Filter change  conventional",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "281",
+      "name": "Engine Oil and Filter Change  Conventional Oil",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "961",
+      "name": "100,000 mile scheduled service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "980",
+      "name": "catalytic converter  replace",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "968",
+      "name": "Car will not start  diagnosis ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "864",
+      "name": "Car has difficulty starting  (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "957",
+      "name": "blown head gasket  repair ",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "967",
+      "name": "Brake line leak ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "965",
+      "name": "Leaking hose  engine compartment  antifreeze leaking",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "762",
+      "name": "Rear struts  replace",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "964",
+      "name": "Replace rotors  front and rear ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "963",
+      "name": "Replace rotors  rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "949",
+      "name": "Replace rotors  front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "960",
+      "name": "Timing belt adjustment",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "899",
+      "name": "brake lines / line repair",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "941",
+      "name": "Resurface rotors  all four",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "940",
+      "name": "Resurface rear rotors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "939",
+      "name": "Resurface front rotors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "33",
+      "name": "Brake Flex Line Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "870",
+      "name": "ignition interlock installation ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "831",
+      "name": "Starter solenoid replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "865",
+      "name": "Inspection sticker ",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "860",
+      "name": "State Inspection",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "749",
+      "name": "replace rear brake pads and rotors",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "757",
+      "name": "hybrid battery replacement / IMA Battery ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "812",
+      "name": "stalling, rough idle",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "797",
+      "name": "Air conditioner blowing hot / warm air",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "758",
+      "name": "CV joint / axle replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "815",
+      "name": "AC leaking",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "803",
+      "name": "change brake pads  front and rear ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "804",
+      "name": "Traction control module  replace ",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "801",
+      "name": "All wheel drive diagnosis",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "798",
+      "name": "Air conditioner not cooling / working",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "800",
+      "name": "Tire change / Repair",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "796",
+      "name": "Loose sway bar / stabilizer bar  needs repair",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "795",
+      "name": "Sway Bar Link Kit Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "535",
+      "name": "tire puncture, blowout, burst  repair",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "760",
+      "name": "Clutch is slipping (manual transmission diagnosis)",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "759",
+      "name": "Lower ball joint replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "630",
+      "name": "front spring repair",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "573",
+      "name": "power steering fluid replacement",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "598",
+      "name": "7D inspection  emissions ",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "572",
+      "name": "secondary air injection pump",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "614",
+      "name": "timing chain replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "600",
+      "name": "Bleed brakes  bleed brake lines",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "581",
+      "name": "Front end alignment",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "566",
+      "name": "Diagnosis / inspect my vehicle (non emissions)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "599",
+      "name": "Power steering oil replacement",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "589",
+      "name": "wheel balance  4 tires",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "532",
+      "name": "Repair flat tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "531",
+      "name": "Fix flat tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "538",
+      "name": "fix a flat tire ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "582",
+      "name": "Front end wheel alignment",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "585",
+      "name": "change / replace timing belt",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "567",
+      "name": "Failed inspection",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "597",
+      "name": "Replace timing belt",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "603",
+      "name": "install air conditioning compressor ",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "602",
+      "name": "Install A/C compresser ",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "601",
+      "name": "Replace horn",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "590",
+      "name": "Vehicle Inspection  State Inspection ",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "588",
+      "name": "wheel balance  2 tires",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "587",
+      "name": "Wheel balance  1 tire",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "586",
+      "name": "Tire blowout  repair ",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "546",
+      "name": "4 / four new tires ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "544",
+      "name": "purchase and install 4 new tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "543",
+      "name": "purchase and install 2 new tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "542",
+      "name": "purchase and install 1 new tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "541",
+      "name": "buy and install 4 new tires ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "540",
+      "name": "buy and install 2 new tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "539",
+      "name": "buy and install 1 new tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "537",
+      "name": "tire sidewall damage (need new tire) ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "536",
+      "name": "tire damage  repair ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "534",
+      "name": "tire patch  repair",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "530",
+      "name": "install tires (my tires)  4 tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "500",
+      "name": "See brownish stains under front of vehicle (engine component fluid leaks, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "480",
+      "name": "Feel the entire vehicle shaking at idle (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "474",
+      "name": "Feel the engine vibrating (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "492",
+      "name": "Feel a hard thumping sound when driving over a bumps (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "547",
+      "name": "Front brakes  installation ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "471",
+      "name": "Power windshield wipers are not functioning properly (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "469",
+      "name": "Power windows are not functioning properly (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "521",
+      "name": "Clutch is making abnormal sounds (noises) during normal operation (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "520",
+      "name": "Clutch pedal pulsates when foot is resting on pedal (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "519",
+      "name": "Clutch slips (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "518",
+      "name": "Clutch will not engage after clutch pedal is fully released (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "517",
+      "name": "Clutch pedal does not fully return to original position after depressed (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "516",
+      "name": "Clutch pedal is difficult or hard to depress (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "515",
+      "name": "Clutch engages too close to bottom of fully depressed clutch pedal (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "514",
+      "name": "Clutch does not engage until fully released or at top (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "513",
+      "name": "Clutch petal is soft (Manual transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "512",
+      "name": "Vehicle transmission lubricant is leaking (Automatic Transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "511",
+      "name": "Vehicle is stuck in a single gear and does not shift on its own (Automatic transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "510",
+      "name": "Vehicle randomly pops into neutral after vehicle is placed into gear (drivetrain diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "509",
+      "name": "Vehicle makes a sound (noise) when vehicle is placed into gear (drivetrain diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "495",
+      "name": "See a screw or nail in tire (tire diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "494",
+      "name": "See a slight tear in tire sidewall (tire diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "493",
+      "name": "See cracks in tire sidewall (tire diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "491",
+      "name": "Vehicle bounces up and down over any bump in road (shocks, suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "490",
+      "name": "One or both brake lights are not working properly (electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "489",
+      "name": "One or both taillights are not working properly (electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "488",
+      "name": "One or several of the turn signals are not working (electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "426",
+      "name": "Automatic Transmission Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "486",
+      "name": "Various fan speeds are not working properly  some work others doe not (Electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "485",
+      "name": "Windshield fogs with defroster setting turned on (Heat diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "484",
+      "name": "No air flowing from vents after AC or FAN is turned on (AC / Heat / Electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "483",
+      "name": "No cold air flowing from vents when AC is turned on (AC diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "482",
+      "name": "Vehicle stalls from time to time (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "481",
+      "name": "Vehicle stalls from a starting position when I accelerate (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "479",
+      "name": "Vehicle engine races or runs high while not in motion (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "478",
+      "name": "Vehicle hesitates when accelerating (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "477",
+      "name": "Vehicle backfires after starting and then stalls (exhaust or timing issue, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "476",
+      "name": "Vehicle backfires after starting and then runs fine (engine timing issue, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "473",
+      "name": "Vehicle temperature gauge runs hot (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "472",
+      "name": "Vehicle overheated (engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "444",
+      "name": "Hear a squealing sound (noise) when turning the steering wheel (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "466",
+      "name": "Tire pressure light is on (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "467",
+      "name": "Temperature warning light is on (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "462",
+      "name": "Brake or ABS warning light is on (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "464",
+      "name": "Brake light is on all the time (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "468",
+      "name": "Battery charge or warning light is on (general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "420",
+      "name": "Tire Installation  New  Purchase 4 Tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "12221",
+      "name": "Gear Lever Y Position Sensor 1 Circuit Range/Performance",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "11789",
+      "name": "P0100  Mass or Volume Air Flow Sensor \"A\" Circuit",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "11788",
+      "name": "P0101  Mass or Volume Air Flow Sensor \"A\" Circuit Range/Performance",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "11787",
+      "name": "P0200  Injector Circuit/Open",
+      "categoryname": {
+        "nil": "true"
+      },
+      "servicecategoryid": {
+        "nil": "true"
+      }
+    }, {
+      "id": "439",
+      "name": "Hear a squealing sound (noise) when brakes are applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "440",
+      "name": "Hear a squealing sound (noise) all the time when vehicle is in motion (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "441",
+      "name": "Hear a sound (noise) just before the vehicle stops (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "442",
+      "name": "Hear a groaning sound (noise) just after brake pedal is released (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "443",
+      "name": "Hear a creeping sound (noise) just after brake pedal is released (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "259",
+      "name": "AC Refrigerant Recharge",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "456",
+      "name": "Vehicle drifts to one side when accelerating (alignment or motor mount or drive axle, general diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "414",
+      "name": "Tire Repair  Fix Flat",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "463",
+      "name": "Vehicle comes to a sudden stop when steady pressure is applied to brakes (Brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "461",
+      "name": "Brake warning light is on (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "460",
+      "name": "Brake pedal engages brakes unusually further than before (brake fluid or pedal adjustment, brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "459",
+      "name": "Brake pedal is soft or spongy when brake is applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "458",
+      "name": "Brake pedal has no play or sensitive when brake is applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "457",
+      "name": "Vehicle takes longer to stop when brakes are applied (brake fade, Brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "455",
+      "name": "Vehicle drifts to one side (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "454",
+      "name": "Vehicle pulls to one side (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "418",
+      "name": "Tire Installation  New  purchase 1 Tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "412",
+      "name": "Tire Leak   Repair",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "453",
+      "name": "Vehicle pulls to left when brakes are applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "452",
+      "name": "Vehicle pulls to right when brakes are applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "451",
+      "name": "Vehicle pulls to one side when brakes are applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "450",
+      "name": "Parking bake does not hold my vehicle in place when applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "449",
+      "name": "Brake pedal pulsates when brakes are applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "448",
+      "name": "Steering wheel is difficult or hard to turn (suspension / engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "446",
+      "name": "Steering wheel vibrates when brakes are applied at low speeds (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "445",
+      "name": "Steering wheel vibrates when brakes are applied at high speeds (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "434",
+      "name": "Clutch Replacement  Replace ",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "261",
+      "name": "Ambient Air Temperature Sensor  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "258",
+      "name": "AC Refrigerant Line  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "257",
+      "name": "AC Receiver Drier Assembly  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "255",
+      "name": "AC Orifice Tube  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "256",
+      "name": "AC Low Pressure Hose  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "254",
+      "name": "AC Expansion Value  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "253",
+      "name": "AC Evaporator Core  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "392",
+      "name": "Steering and Suspension Diagnosis",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "66",
+      "name": "AC Diagnosis / Air Conditioning Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "251",
+      "name": "AC Condenser  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "250",
+      "name": "AC Condenser Fan  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "381",
+      "name": "Replace Strut / Strut Assembly Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "382",
+      "name": "Upper Ball Joint Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "249",
+      "name": "AC Compressor  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "263",
+      "name": "Cooling Fan Replacement",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "286",
+      "name": "Brake Fluid Replacement / Flush",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "436",
+      "name": "Transmission Fluid Flush",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "421",
+      "name": "Wheel Alignment Adjustment",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "435",
+      "name": "Clutch Slave Cylinder Replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "433",
+      "name": "Clutch Master Cylinder Replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "432",
+      "name": "Clutch Cable Replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "430",
+      "name": "Axle Shaft Replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "427",
+      "name": "Axle shaft oil seal replacement",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "425",
+      "name": "Wheel Replacement",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "424",
+      "name": "Wheel Lug Stud Replacement",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "423",
+      "name": "Wheel Hub And Bearing Assembly Replacement",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "413",
+      "name": "Tire Leak  Patch",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "411",
+      "name": "Tire Pressure Monitoring System Reset",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "410",
+      "name": "Tire Pressure Monitoring System Relearn",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "409",
+      "name": "Tire Pressure Monitoring Sensor Replacement",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "407",
+      "name": "Tire and Wheel Assembly Balance",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "405",
+      "name": "Wheel Hub Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "404",
+      "name": "Wheel Hub and Bearing Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "401",
+      "name": "Wheel Bearing Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "399",
+      "name": "Tire & Wheel Assembly Rotate & Balance",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "398",
+      "name": "Tire & Wheel Assembly Balance",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "397",
+      "name": "Steering Tie Rod Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "396",
+      "name": "Steering Tie Rod Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "395",
+      "name": "Steering Rack Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "394",
+      "name": "Steering Knuckle Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "393",
+      "name": "Steering Gear Box Assembly Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "391",
+      "name": "Stabilizer Bar Link Kit Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "390",
+      "name": "Suspension Strut Mount Assembly Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "389",
+      "name": "Suspension Shock Absorber Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "388",
+      "name": "Suspension Control Arm Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "387",
+      "name": "Suspension Control Arm Bushings Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "386",
+      "name": "Suspension Coil Springs Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "377",
+      "name": "Shock Absorber Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "376",
+      "name": "Shock Absorber Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "375",
+      "name": "Power Steering Line / Hose Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "374",
+      "name": "Power Steering Pump Replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "373",
+      "name": "151,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "372",
+      "name": "148,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "371",
+      "name": "145,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "370",
+      "name": "142,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "369",
+      "name": "139,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "368",
+      "name": "137,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "280",
+      "name": "Axle Shaft Oil Seal  Replace",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "355",
+      "name": "106,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "367",
+      "name": "136,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "366",
+      "name": "133,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "365",
+      "name": "130,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "364",
+      "name": "127,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "363",
+      "name": "124,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "362",
+      "name": "122,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "361",
+      "name": "121,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "360",
+      "name": "118,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "359",
+      "name": "115,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "358",
+      "name": "112,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "312",
+      "name": "Transmission Fluid Change",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "292",
+      "name": "Diagnose my vehicle",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "290",
+      "name": "Cabin Air Filter Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "357",
+      "name": "109,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "353",
+      "name": "99,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "352",
+      "name": "97,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "351",
+      "name": "96,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "350",
+      "name": "93,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "349",
+      "name": "90,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "348",
+      "name": "87,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "347",
+      "name": "84,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "346",
+      "name": "82,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "345",
+      "name": "81,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "344",
+      "name": "78,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "343",
+      "name": "75,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "342",
+      "name": "72,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "341",
+      "name": "69,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "340",
+      "name": "67,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "339",
+      "name": "66,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "338",
+      "name": "63,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "337",
+      "name": "60,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "336",
+      "name": "57,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "282",
+      "name": "Engine Oil and Filter Change  Full Synthetic Motor Oil",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "296",
+      "name": "Engine Coolant System Flush and Refill",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "264",
+      "name": "Coolant System Flush and Refill ",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "335",
+      "name": "54,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "334",
+      "name": "52,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "333",
+      "name": "51,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "332",
+      "name": "48,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "331",
+      "name": "45,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "330",
+      "name": "42,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "329",
+      "name": "39,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "328",
+      "name": "37,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "327",
+      "name": "36,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "326",
+      "name": "33,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "325",
+      "name": "30,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "324",
+      "name": "27,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "323",
+      "name": "24,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "322",
+      "name": "22,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "321",
+      "name": "21,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "320",
+      "name": "18,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "319",
+      "name": "15,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "318",
+      "name": "12,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "317",
+      "name": "9,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "316",
+      "name": "7,500 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "315",
+      "name": "6,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "314",
+      "name": "3,000 mile service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "86",
+      "name": "Air Bag Crash Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "81",
+      "name": "Oil Leak Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "80",
+      "name": "Heating and AC Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "78",
+      "name": "Engine Overheating Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "74",
+      "name": "Engine Cooling System Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "69",
+      "name": "Charging System Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "67",
+      "name": "Automatic Transmission and Drive Train Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "64",
+      "name": "Wheel Speed Sensor Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "60",
+      "name": "Proportioning Valve Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "59",
+      "name": "Parking Brake Cable Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "58",
+      "name": "Parking Brake Cable Adjustment",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "57",
+      "name": "Emergency / Parking Brake Shoe Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "44",
+      "name": "Brake Power Booster Unit Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "40",
+      "name": "Brake Line Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "37",
+      "name": "Brake Hydraulic System Bleeding",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "26",
+      "name": "Brake Booster Replacement",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "20",
+      "name": "Starter replacement ",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "18",
+      "name": "Radiator replacement ",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "272",
+      "name": "HVAC Diagnosis",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "53",
+      "name": "Brake Wheel Cylinder for Drum Brakes  Replace  Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "248",
+      "name": "AC Compressor Clutch  Replace",
+      "categoryname": "AC",
+      "servicecategoryid": "15"
+    }, {
+      "id": "89",
+      "name": "Alternator Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "561",
+      "name": "scratched rim  need repaired ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "72",
+      "name": "Diagnose My Car",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "553",
+      "name": "Brakes  front and rear replacement ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "560",
+      "name": "Cracked rim  need repaired ",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "556",
+      "name": "gas cap replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "548",
+      "name": "Brake Drum Replace  Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "559",
+      "name": "bent rim  need repaired",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "552",
+      "name": "Difficult to shift gears (manual transmission diagnosis) ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "551",
+      "name": "Steering wheel is hard to turn (power steering diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "550",
+      "name": "Vehicle veers to right when brakes are applied (brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "549",
+      "name": "Vehicle veers to left when brakes are applied (brake diagnosis) ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "1618",
+      "name": "CV boot replacement",
+      "categoryname": "Suspension",
+      "servicecategoryid": "12"
+    }, {
+      "id": "237",
+      "name": "Vehicle Road Test",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "554",
+      "name": "Front and rear brakes",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "1079",
+      "name": "Oil change Full Synthetic Motor Oil",
+      "categoryname": "Lubrication",
+      "servicecategoryid": "10"
+    }, {
+      "id": "875",
+      "name": "Replace brakes  Front  both sides",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "654",
+      "name": "change battery",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "447",
+      "name": "Steering wheel vibrates at high speeds (suspension diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "529",
+      "name": "install tires (my tires)  2 tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "528",
+      "name": "Install tire (my tires)  1 tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "526",
+      "name": "New tires  buy 2 tires",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "525",
+      "name": "New tire  buy 1 tire",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "408",
+      "name": "Tire and Wheel Assembly Rotate and Balance",
+      "categoryname": "Tires",
+      "servicecategoryid": "13"
+    }, {
+      "id": "524",
+      "name": "Vehicle is using more gas that usual (inspection for possible fuel leak and tune up, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "522",
+      "name": "Vehicle jerks while in drive or between changes in gears (Automatic transmission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "502",
+      "name": "Heavy odor (smell), some smoke coming from vehicle tailpipe (burning oil, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "504",
+      "name": "Sulfur odor (smell) coming from vehicle (emission system, emission diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "507",
+      "name": "Metallic odor plus sweet odor (smell) coming from front of vehicle (overheating, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "501",
+      "name": "Sharp odor (smell) from any part of the vehicle (electrical short, electrical diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "506",
+      "name": "Burning rubber odor (smell) coming from center of vehicle (overheated clutch, drivetrain diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "503",
+      "name": "Heavy odor (smell), some smoke coming from under the hood (burning oil, engine diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "497",
+      "name": "Sweet odor (smell) coming from the front of vehicle (Coolant leak, coolant system diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "952",
+      "name": "change air filter",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "505",
+      "name": "Burning rubber odor (smell) coming from any area near vehicle tires (overheated brakes, brake diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "496",
+      "name": "See steam coming out from under the hood (Antifreeze leak, coolant system diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "508",
+      "name": "See reddish stains under the middle of vehicle (transmission or oil leaks, engine and drivetrain diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "499",
+      "name": "See black, pasty liquid under front or rear of vehicle (Axle leak, drivetrain diagnosis)",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "309",
+      "name": "Tire and Wheel Assembly Rotate & Balance",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "308",
+      "name": "Tire and Wheel Assembly Balance",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "306",
+      "name": "Spark Plug Wire Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "305",
+      "name": "Spark Plugs Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "304",
+      "name": "Serpentine/Drive Belt Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "302",
+      "name": "Positive Crankcase Ventilation (PCV) Valve Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "301",
+      "name": "Parking Brake System Adjustment",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "298",
+      "name": "Ignition Cable Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "297",
+      "name": "Fuel Filter Replacement / Change",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "295",
+      "name": "Engine Air Filter Element Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "294",
+      "name": "Drive Belt Replacement",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "293",
+      "name": "Differential Fluid Replacement  Front",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "291",
+      "name": "Check Differential Oil Leaks and Replace Oil",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "289",
+      "name": "Brake Safety Inspection",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "278",
+      "name": "Radiator Support Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "274",
+      "name": "Radiator Fan Motor Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "273",
+      "name": "HVAC Blending Door Actuator Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "271",
+      "name": "HVAC Blower Motor Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "270",
+      "name": "Heating and Air Conditioning Diagnosis",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "269",
+      "name": "Heater Hose Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "268",
+      "name": "Heater Core Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "267",
+      "name": "Heater Control Valve Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "266",
+      "name": "Heater Blower Motor Resistor Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "265",
+      "name": "Heater Blower Motor Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "247",
+      "name": "O2 Sensor Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "245",
+      "name": "Exhaust Systems Replacement (end to end)",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "244",
+      "name": "Exhaust Pipe Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "243",
+      "name": "Exhaust Muffler Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "242",
+      "name": "Exhaust Manifold Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "241",
+      "name": "Exhaust Manifold Gasket Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "240",
+      "name": "EGR Valve Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "239",
+      "name": "Catalytic Converter Replacement",
+      "categoryname": "Exhaust",
+      "servicecategoryid": "8"
+    }, {
+      "id": "238",
+      "name": "Water Pump Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "200",
+      "name": "Engine Oil Pan Replacement / change",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "236",
+      "name": "Variable Valve Timing Actuator Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "235",
+      "name": "Valve Stem Oil Seal Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "234",
+      "name": "Valve Cover Gasket Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "233",
+      "name": "Turbocharger Assembly Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "232",
+      "name": "Timing Chain Tensioner Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "231",
+      "name": "Timing Chain and Gear Set Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "229",
+      "name": "Throttle Body Assembly Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "227",
+      "name": "Spark Plug Wire Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "225",
+      "name": "Radiator Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "224",
+      "name": "Radiator Hose Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "223",
+      "name": "Radiator Fan Motor Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "222",
+      "name": "PVC Value Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "108",
+      "name": "Headlamp Assembly Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "107",
+      "name": "Headlamp Alignment Adjustment",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "106",
+      "name": "Fuse Test/Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "105",
+      "name": "Fuel Pump Relay Replace ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "103",
+      "name": "Engine Coolant Temperature Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "102",
+      "name": "Engine Control Module Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "101",
+      "name": "Engine Control Module Relearn",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "99",
+      "name": "Door Lock Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "91",
+      "name": "Battery Terminal End Servicing ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "87",
+      "name": "Air Bag Inflator Module Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "54",
+      "name": "Brake Wheel Cylinder for Drum Brakes  Replace  Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "51",
+      "name": "Brake Shoes  Replace  Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "50",
+      "name": "Brake Shoes  Replace  Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "28",
+      "name": "Brake pad and rotor replacement  Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "75",
+      "name": "Engine Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "76",
+      "name": "Engine Oil Leak Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "73",
+      "name": "Electrical System Diagnosis ",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "15",
+      "name": "Diagnose my vehicle ",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "68",
+      "name": "Brake System Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "82",
+      "name": "Steering and Suspension Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "47",
+      "name": "Brake Rotor and Disc  Replace  Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "45",
+      "name": "Brake Rotor and Disc  Replace  Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "41",
+      "name": "Brake Master Cylinder  Replace",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "38",
+      "name": "Brake Light Bulb  Replace",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "21",
+      "name": "Timing belt replacement / change",
+      "categoryname": "Common",
+      "servicecategoryid": "1"
+    }, {
+      "id": "77",
+      "name": "Engine Oil Light Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "558",
+      "name": "See red stains under the middle of vehicle (transmission or oil leaks, engine and drivetrain diagnosis)",
+      "categoryname": "Transmission",
+      "servicecategoryid": "14"
+    }, {
+      "id": "70",
+      "name": "Check engine light",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "71",
+      "name": "Coolant Leak  Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "79",
+      "name": "Engine Performance Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "65",
+      "name": "ABS System Diagnosis",
+      "categoryname": "Diagnosis",
+      "servicecategoryid": "3"
+    }, {
+      "id": "354",
+      "name": "103,000 mile scheduled service",
+      "categoryname": "Maintenance",
+      "servicecategoryid": "11"
+    }, {
+      "id": "34",
+      "name": "Brake Flex Line  Replace Rear",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "35",
+      "name": "Brake Flex Line  Replace Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "31",
+      "name": "Brake Drum Replace  Front",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "85",
+      "name": "Air Bag Control Module  Replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "84",
+      "name": "Air Bag Clockspring  Replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "25",
+      "name": "ABS Wheel Speed Sensor  Replace",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "22",
+      "name": "ABS Control Module  Replace ",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "23",
+      "name": "ABS Hydraulic Control Unit  Replace",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "221",
+      "name": "Oxygen Sensor Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "220",
+      "name": "Oil Pressure Sensor, Replace",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "217",
+      "name": "Mass Air Flow Sensor Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "216",
+      "name": "Intercooler Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "215",
+      "name": "Intake Manifold Gasket Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "212",
+      "name": "Idle Control Valve Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "211",
+      "name": "Fuel Tank Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "210",
+      "name": "Fuel Pump Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "209",
+      "name": "Fuel Pressure Regulator Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "208",
+      "name": "Fuel Injector Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "207",
+      "name": "Fan Shroud Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "206",
+      "name": "Exhaust Gas Recirculation/EGR Valve Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "205",
+      "name": "Engine Piston Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "203",
+      "name": "Engine Overheat Diagnosis",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "202",
+      "name": "Engine Oil Pump Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "201",
+      "name": "Engine Oil Pan Reseal / Seal",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "199",
+      "name": "Engine Oil Pan Gasket Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "198",
+      "name": "Engine Oil Cooler Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "196",
+      "name": "Engine Mount Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "195",
+      "name": "Engine Front Cover Gasket Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "194",
+      "name": "Engine Expansion/Freeze Plug Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "193",
+      "name": "Engine Cooling System Diagnosis",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "192",
+      "name": "Engine Coolant Thermostat Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "191",
+      "name": "Engine Coolant Outlet Housing Gasket Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "190",
+      "name": "Engine Coolant Expansion Tank Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "189",
+      "name": "Engine Control Module Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "188",
+      "name": "Engine Control Module Relearn",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "187",
+      "name": "Engine Assembly Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "186",
+      "name": "Engine Assembly Inspection",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "185",
+      "name": "Engine Assembly  Short Block Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "184",
+      "name": "Engine Assembly  Long Block Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "183",
+      "name": "Driveshaft Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "182",
+      "name": "Drive Belt Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "181",
+      "name": "Drive Belt Idler Pulley Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "180",
+      "name": "Cylinder Head Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "179",
+      "name": "Cylinder Head Gasket Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "178",
+      "name": "Cylinder Head Assembly Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "177",
+      "name": "Crankshaft Vibration Damper Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "176",
+      "name": "Crankshaft Position Sensor Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "175",
+      "name": "Crankshaft Oil Seal Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "174",
+      "name": "Crankshaft Main Bearing Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "104",
+      "name": "Fog Light / Driving Light Bulb Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "95",
+      "name": "Brake Light Switch  Replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "94",
+      "name": "Need New Battery  Replace ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "93",
+      "name": "Battery Cable  Replace Negative",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "92",
+      "name": "Battery Cable  Replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "90",
+      "name": "Backup Lamp Switch  Replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "100",
+      "name": "Electrical system diagnosis ",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "277",
+      "name": "Radiator Replacement",
+      "categoryname": "Heating ",
+      "servicecategoryid": "9"
+    }, {
+      "id": "88",
+      "name": "Alternator Pulley  Replace",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "173",
+      "name": "Control Arm Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "168",
+      "name": "Carburetor Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "167",
+      "name": "Camshaft Seal Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "166",
+      "name": "Camshaft Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "165",
+      "name": "Camshaft Position Sensor Replacement",
+      "categoryname": "Engine",
+      "servicecategoryid": "7"
+    }, {
+      "id": "160",
+      "name": "Windshield Wiper Arm Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "159",
+      "name": "Windshield Washer Fluid Reservoir Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "158",
+      "name": "Windshield Washer Fluid Pump Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "156",
+      "name": "Hood Support Strut Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "155",
+      "name": "Hood Release Cable Replacement",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "154",
+      "name": "Hood Release Cable adjustment",
+      "categoryname": "General",
+      "servicecategoryid": "6"
+    }, {
+      "id": "36",
+      "name": "Brake Fluid Flush / Replace",
+      "categoryname": "Brakes",
+      "servicecategoryid": "2"
+    }, {
+      "id": "152",
+      "name": "OBDII Drive Cycle Test",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "151",
+      "name": "Fuel Level Sending Unit Replacement",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "150",
+      "name": "Fuel Evaporative Canister Replacement",
+      "categoryname": "Emission Testing",
+      "servicecategoryid": "5"
+    }, {
+      "id": "148",
+      "name": "Windshield Wiper Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "147",
+      "name": "Windshield Wiper Motor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "145",
+      "name": "Windshield Washer Fluid Level Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "144",
+      "name": "Window Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "143",
+      "name": "Window Regulator Motor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "141",
+      "name": "Turn Signal Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "140",
+      "name": "Turn Signal Bulb Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "139",
+      "name": "Tire Pressure Monitoring System Reset",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "138",
+      "name": "Tire Pressure Monitoring System Relearn",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "137",
+      "name": "Tire Pressure Monitoring Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "136",
+      "name": "Throttle Position Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "135",
+      "name": "Tail Light Bulb Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "134",
+      "name": "Sun Roof Motor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "133",
+      "name": "Starter Motor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "132",
+      "name": "Seat Belt Motor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "131",
+      "name": "Radio Antenna Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "130",
+      "name": "Power Window Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "129",
+      "name": "Power Window Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "128",
+      "name": "Power Window Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "127",
+      "name": "Power Window Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "126",
+      "name": "Power Seat Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "125",
+      "name": "Power Mirror Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "122",
+      "name": "MultiFunction Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "121",
+      "name": "Mass Airflow Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "120",
+      "name": "Knock Sensor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "119",
+      "name": "Instrument Panel Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "118",
+      "name": "Instrument Cluster Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "117",
+      "name": "Ignition Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "116",
+      "name": "Ignition Lock Cylinder Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "115",
+      "name": "Ignition Coil Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "114",
+      "name": "HVAC Blend Door Actuator Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "113",
+      "name": "Horn Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "112",
+      "name": "Heater Blower Motor Resistor Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "111",
+      "name": "Headlamp Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "110",
+      "name": "Headlamp Dimmer Switch Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }, {
+      "id": "109",
+      "name": "Headlamp Bulb Replacement",
+      "categoryname": "Electrical",
+      "servicecategoryid": "4"
+    }]
+}
